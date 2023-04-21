@@ -61,6 +61,7 @@ main li{
 a{
     color: #51799c;
     text-decoration: none;
+    word-wrap: break-word;
 }
 
 a:hover{
